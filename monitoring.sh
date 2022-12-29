@@ -1,6 +1,6 @@
 #!bin/bash
 
-#display the OS-s architecture and its kernel version
+#display the OS's architecture and its kernel version
 arch=$(uname -a)
 
 #number of physical processors
